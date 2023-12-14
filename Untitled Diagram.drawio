@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T13:39:25.571Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.8" etag="1_q4fveaStCFzJLFHY4R" type="github"><diagram name="Page-1" id="2DmeTfSQ8MzfA1S4MehK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-12-14T04:29:04.049Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L20N3bsfCYLMtwWbV6ov" version="22.1.8" type="github">
+  <diagram name="Page-1" id="2DmeTfSQ8MzfA1S4MehK">
+    <mxGraphModel dx="1434" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-12" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="397" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-13" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="397" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-14" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="397" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-21" value="NEON CVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="577" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-22" value="OO IT Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-23" value="Clvertap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-25" value="&lt;h1&gt;Use case 1&lt;/h1&gt;&lt;div&gt;CVM sending campaign to Clevertap&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72" y="303" width="134" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-27" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.181;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rTwE9KhgN2_nhi8sHFS6-12">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="146" y="425" as="sourcePoint" />
+            <mxPoint x="348" y="425" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="381" y="425" as="sourcePoint" />
+            <mxPoint x="605" y="423" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.475;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rTwE9KhgN2_nhi8sHFS6-12">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="350" y="471" as="sourcePoint" />
+            <mxPoint x="358" y="435" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.475;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="612" y="471" as="sourcePoint" />
+            <mxPoint x="374" y="473" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-31" value="Call&amp;nbsp; https://eu1.api.clevertap.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="397" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-34" value="Ack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="448" y="447" width="38" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-35" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="750" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-36" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-37" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="623" y="750" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-38" value="NEON CVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="933" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-39" value="OO IT Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="933" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-40" value="Clvertap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="96" y="925" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-41" value="&lt;h1&gt;Use case 2&lt;/h1&gt;&lt;div&gt;Clevertap sending webhook to CVM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="656" width="134" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-42" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.181;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rTwE9KhgN2_nhi8sHFS6-35">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="157" y="778" as="sourcePoint" />
+            <mxPoint x="359" y="778" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-43" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="392" y="778" as="sourcePoint" />
+            <mxPoint x="616" y="776" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.475;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rTwE9KhgN2_nhi8sHFS6-35">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="361" y="824" as="sourcePoint" />
+            <mxPoint x="369" y="788" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.475;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="623" y="824" as="sourcePoint" />
+            <mxPoint x="385" y="826" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="206" y="750" width="18" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-47" value="X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="461" y="755" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-48" value="X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="800" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-49" value="X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="800" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Call&amp;nbsp; https://eu1.api.clevertap.com&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="397" width="209" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-51" value="Ack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="166" y="449" width="38" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rTwE9KhgN2_nhi8sHFS6-52" value="call&amp;nbsp;&lt;a style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;, serif; text-align: start; text-indent: 48px; background-color: rgb(255, 255, 255);&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://10.4.108.226:8092/rest/authkey/uninstall/kpi/data&amp;amp;source=gmail&amp;amp;ust=1702614224016000&amp;amp;usg=AOvVaw0lnR2bg2Mx4uCMdzANXEZX&quot; target=&quot;_blank&quot; href=&quot;http://10.4.108.226:8092/rest/authkey/uninstall/kpi/data&quot;&gt;http://10.4.108.226:port/rest/&lt;wbr style=&quot;border-color: var(--border-color);&quot;&gt;authkey/**/kpi/data&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="91" y="747" width="273" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
